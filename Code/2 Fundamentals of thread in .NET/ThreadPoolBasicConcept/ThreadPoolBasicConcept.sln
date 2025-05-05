@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadConcept", "ThreadConcept\ThreadConcept.csproj", "{B2FE3A7A-117F-45D2-B767-91D5A0B78DF4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadPoolBasicConcept", "ThreadPoolBasicConcept\ThreadPoolBasicConcept.csproj", "{640F96AE-30E7-4E40-B709-2418EB5D4650}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B2FE3A7A-117F-45D2-B767-91D5A0B78DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B2FE3A7A-117F-45D2-B767-91D5A0B78DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B2FE3A7A-117F-45D2-B767-91D5A0B78DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B2FE3A7A-117F-45D2-B767-91D5A0B78DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640F96AE-30E7-4E40-B709-2418EB5D4650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640F96AE-30E7-4E40-B709-2418EB5D4650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640F96AE-30E7-4E40-B709-2418EB5D4650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640F96AE-30E7-4E40-B709-2418EB5D4650}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {AD64CE77-40C8-4316-A716-F45F65502211}
+		SolutionGuid = {5E399189-1A9D-464B-9E07-AE2ECE29117C}
 	EndGlobalSection
 EndGlobal
