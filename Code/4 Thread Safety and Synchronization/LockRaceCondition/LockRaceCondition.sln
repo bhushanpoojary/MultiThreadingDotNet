@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockRaceCondition", "LockRaceCondition\LockRaceCondition.csproj", "{EDA57EB0-25CB-4C21-84E7-8E273E37E146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDA57EB0-25CB-4C21-84E7-8E273E37E146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA57EB0-25CB-4C21-84E7-8E273E37E146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA57EB0-25CB-4C21-84E7-8E273E37E146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA57EB0-25CB-4C21-84E7-8E273E37E146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB804E84-2DF1-42F5-ABD9-D462E538B935}
+	EndGlobalSection
+EndGlobal
