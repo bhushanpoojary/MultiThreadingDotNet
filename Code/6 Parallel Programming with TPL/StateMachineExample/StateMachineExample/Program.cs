@@ -2,15 +2,15 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        public async static Task Main(string[] args)
         {
-            var data = FetchData();
+            var data = await FetchData();
             Console.WriteLine(data);
         }
-        public static string FetchData()
-        {
+        public async static Task<string> FetchData()
+        { 
             using var client = new HttpClient();
-            var result = client.GetStringAsync("https://example.com").Result;
+            var result =  await client.GetStringAsync("https://example.com");
             return result;
         }
     }
